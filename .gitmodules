@@ -1,3 +1,3 @@
 [submodule "apps/my-app-01"]
 	path = apps/my-app-01
-	url = https://github.com/pksmall/test-dir/tree/master/apps/my-app-01
+	url = https://github.com/pksmall/test-dir/apps/my-app-01.git
